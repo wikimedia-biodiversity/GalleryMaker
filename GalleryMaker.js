@@ -4,7 +4,7 @@
  *
  * Author:  Manoj Karingamadathil, Wikimedians of Kerala User Group
  * Script:  https://commons.wikimedia.org/wiki/User:Manojk/GalleryMaker.js
- * Source:  https://github.com/wikimedia-biodiversity/GalleryMaker-
+ * Source:  https://github.com/wikimedia-biodiversity/GalleryMaker
  * DOI:     https://doi.org/10.5281/zenodo.23852287
  * License: MIT license
  *
